@@ -1,2 +1,10 @@
-# API-escolar
-projeto feito com base o aplicativo da minha antiga escola
+# Api escolar 
+## Projeto feito com base minha antiga escola 
+
+### tecnologias
+
+* Java
+* SpringBoot
+* Mokcito
+* ]Unit
+* Mysql
