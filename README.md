@@ -5,6 +5,6 @@
 
 * Java
 * SpringBoot
-* Mokcito
+* Mockito
 * ]Unit
 * Mysql
